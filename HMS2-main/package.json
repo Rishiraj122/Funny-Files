@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-pay/button-react": "^3.0.0",
+    "alert": "^5.0.10",
+    "razorpay": "^2.8.1",
+    "react-scripts": "^5.0.0"
+  }
+}
